@@ -1,0 +1,18 @@
+位于分支 master
+要提交的变更：
+  （使用 "git reset HEAD <文件>..." 以取消暂存）
+
+	新文件：   04day/.swk
+	新文件：   04day/.swl
+	新文件：   04day/.swm
+	新文件：   04day/.swn
+	新文件：   04day/.swo
+	新文件：   04day/.swp
+	新文件：   04day/1.txt
+	新文件：   04day/vimic
+
+未跟踪的文件:
+  （使用 "git add <文件>..." 以包含要提交的内容）
+
+	day
+
